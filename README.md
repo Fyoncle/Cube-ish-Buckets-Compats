@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 # Cube-ish Buckets Compats
 
@@ -95,3 +95,5 @@ This resourcepack adds mod compatibility to Cube-ish Buckets to make everything 
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a>
 
 The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Cube-ish-Buckets-Compats/issues)!**
+
+</div>
