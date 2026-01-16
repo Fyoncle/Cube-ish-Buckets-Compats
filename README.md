@@ -6,6 +6,10 @@ This resourcepack adds mod compatibility to Cube-ish Buckets to make everything 
 
 ![Modded Buckets](https://cdn.modrinth.com/data/cached_images/df895c734b9d7309c3ef89fc797cd7cc94079960.png)
 
+Update v2.0:
+
+![v2.0 Fishes](https://cdn.modrinth.com/data/cached_images/f86c83003ad1036e139db08fdd7f5d49f99add3a.png)
+
 ## Compatibility List:
 
 <table>
@@ -84,6 +88,17 @@ This resourcepack adds mod compatibility to Cube-ish Buckets to make everything 
   </td>
   <td>
     <b><a href="https://modrinth.com/mod/supplementaries">Supplementaries</a></b>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://modrinth.com/mod/eating-animation">
+      <img src="https://cdn.modrinth.com/data/rUgZvGzi/c2c13c8cfcb2644190baa8435a461c10399b1148_96.webp" width="32">
+    </a>
+  </td>
+  <td>
+    <b><a href="https://modrinth.com/mod/eating-animation">Eating Animation</a></b>
   </td>
 </tr>
 
