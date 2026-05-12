@@ -2,6 +2,13 @@
 
 # Cube-ish Buckets Compats
 
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days">
+</a>
+
+<br>
+<br>
+
 This resourcepack adds mod compatibility to Cube-ish Buckets to make everything look perfect together!
 
 ![Modded Buckets](https://cdn.modrinth.com/data/cached_images/df895c734b9d7309c3ef89fc797cd7cc94079960.png)
@@ -27,12 +34,12 @@ Update v2.0:
 
 <tr>
   <td>
-    <a href="modrinth.com/mod/tide">
-      <img src="https://cdn.modrinth.com/data/die1AF7i/f3c7d264a083b99b576dec5f411e4eaf0050d7cb_96.webp" width="32">
+    <a href="https://modrinth.com/mod/tide">
+      <img src="https://cdn.modrinth.com/data/die1AF7i/092d1c739b014b6e6480188addb762c30c63f20a_96.webp" width="32">
     </a>
   </td>
   <td>
-    <b><a href="modrinth.com/mod/tide">Tide</a></b>
+    <b><a href="https://modrinth.com/mod/tide">Tide</a></b>
   </td>
 </tr>
 
@@ -94,7 +101,7 @@ Update v2.0:
 <tr>
   <td>
     <a href="https://modrinth.com/mod/eating-animation">
-      <img src="https://cdn.modrinth.com/data/rUgZvGzi/c2c13c8cfcb2644190baa8435a461c10399b1148_96.webp" width="32">
+      <img src="https://cdn.modrinth.com/data/rUgZvGzi/3728bc0dd14ce1ec84599f9dad43aa5fbcfbef2a.gif" width="32">
     </a>
   </td>
   <td>
