@@ -109,9 +109,31 @@ Update v2.0:
   </td>
 </tr>
 
+<tr>
+  <td>
+    <a href="https://modrinth.com/mod/create-fabric">
+      <img src="https://cdn.modrinth.com/data/Xbc0uyRg/bb29eb217b1fd159579409b06ec7b976afd30b14_96.webp" width="32">
+    </a>
+  </td>
+  <td>
+    <b><a href="https://modrinth.com/mod/create-fabric">Create Fabric</a></b>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://modrinth.com/mod/createaddition">
+      <img src="https://cdn.modrinth.com/data/kU1G12Nn/d8d1ec226747a800ba175f70ad00a80f37047cb6_96.webp" width="32">
+    </a>
+  </td>
+  <td>
+    <b><a href="https://modrinth.com/mod/createaddition">Create Crafts & Additions</a></b>
+  </td>
+</tr>
+
 </table>
 
-#
+---
 
 <a href="https://github.com/Fyoncle/Cube-ish-Buckets-Compats" rel="noopener nofollow ugc">
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a>
