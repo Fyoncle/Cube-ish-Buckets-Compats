@@ -131,6 +131,28 @@ Update v2.0:
   </td>
 </tr>
 
+<tr>
+  <td>
+    <a href="https://modrinth.com/mod/enderscape">
+      <img src="https://cdn.modrinth.com/data/btCrWvHr/2981bba805f7c2604b09974d20e566d3ba3b3cdc_96.webp" width="32">
+    </a>
+  </td>
+  <td>
+    <b><a href="https://modrinth.com/mod/enderscape">Enderscape</a></b>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <a href="https://modrinth.com/mod/alexs-mobs">
+      <img src="https://cdn.modrinth.com/data/2cMuAZAp/fbe04602fb0fb336be05e7c40378156b49d50156_96.webp" width="32">
+    </a>
+  </td>
+  <td>
+    <b><a href="https://modrinth.com/mod/alexs-mobs">Alex's Mobs</a></b>
+  </td>
+</tr>
+
 </table>
 
 ---
@@ -139,5 +161,7 @@ Update v2.0:
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a>
 
 The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/Cube-ish-Buckets-Compats/issues)!**
+
+[![Kinetic Hosting](https://github.com/Fyoncle/Elysium-Days/blob/main/kinetic_banner.png?raw=true)](https://billing.kinetichosting.com/aff.php?aff=1616)
 
 </div>
