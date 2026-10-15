@@ -57,7 +57,7 @@ Update v2.0:
 <tr>
   <td>
     <a href="https://modrinth.com/mod/naturalist">
-      <img src="https://cdn.modrinth.com/data/F8BQNPWX/06f421b5c96c2002414373f3e23e07063021a370_96.webp" width="32">
+      <img src="https://cdn.modrinth.com/data/F8BQNPWX/e52917ba0f5ecc1d827f0d4465a15422e0584bf5_96.webp" width="32">
     </a>
   </td>
   <td>
